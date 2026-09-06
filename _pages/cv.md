@@ -29,7 +29,7 @@ First-author study comparing ACT, π0.5, and SmolVLA on a myCobot Pro 630 across
 
 ### Selected honors
 
-- Fuzhou University Comprehensive Scholarship: **First Prize**, 2025–2026 semester 1; **Second Prize**, both semesters of 2024–2025.
+- Fuzhou University Comprehensive Scholarship: **First Prize**, 2025–2026 semester 1; **First Prize**, both semesters of 2024–2025.
 - National-level Third Prize, 2026 “外研社·国才杯”外语能力公开赛.
 - University-level Silver Award, 2025 “外研社·国才杯”理解当代中国.
 - National-level Third Prize, 2024 第八届大学生外语水平能力大赛决赛.

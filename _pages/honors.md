@@ -14,8 +14,8 @@ description: Scholarships, language competitions, and student-service recognitio
 | Academic year | Semester        | Award                 |
 | :------------ | :-------------- | :-------------------- |
 | 2025–2026     | First semester  | First Prize / 一等奖  |
-| 2024–2025     | Second semester | Second Prize / 二等奖 |
-| 2024–2025     | First semester  | Second Prize / 二等奖 |
+| 2024–2025     | Second semester | First Prize / 一等奖 |
+| 2024–2025     | First semester  | First Prize / 一等奖 |
 
 ## Language competitions
 
