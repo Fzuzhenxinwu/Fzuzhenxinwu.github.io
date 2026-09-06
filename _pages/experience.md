@@ -4,17 +4,36 @@ title: Experience
 permalink: /experience/
 nav: true
 nav_order: 3
-description: Education and academic or internship experience.
+description: Education, student leadership, and volunteering at Fuzhou University.
 ---
 
 ## Education
 
-**To be added.** Institution, degree program, and dates will be included after confirmation.
+**Fuzhou University (福州大学)**  
+College of Computer and Data Science (计算机与大数据学院)  
+Undergraduate major: **Information Security (信息安全)**
 
-学校、专业及就读时间待补充。
+- GPA rank: **1 / 58**.
+- Comprehensive assessment rank: **1 / 58**.
+- CET-4: **577**; CET-6: **559**.
 
-## Research and internships
+Enrollment and graduation dates will be added after confirmation.
 
-**To be added.** Organizations, roles, dates, and individual contributions will be documented using verified information.
+## Student leadership
 
-科研、访问及实习经历待补充。
+| Period                          | Role                                                                              |
+| :------------------------------ | :-------------------------------------------------------------------------------- |
+| Since September 2025            | Youth League branch secretary, Information Security Class 1, cohort 2022 (团支书) |
+| September 2024 – September 2025 | Class monitor, Information Security Class 1, cohort 2022 (班长)                   |
+| Since September 2024            | Head of the college's Student Self-Discipline Committee (自律委负责人)            |
+| September 2025 – September 2026 | Residence floor representative, Building 32, first floor (层长)                   |
+
+Role periods follow the supplied student-work presentation.
+
+## Volunteering and campus service
+
+**230+ hours of volunteer service**, including campus health and safety checks, evening attendance support, the college sports meeting, residence lights-out checks, and Fuzhou University Red Cross blood-donation volunteering.
+
+Recognized as a **Fuzhou University One-Star Volunteer (一星级志愿者)**.
+
+[Related honors and scholarships]({{ '/honors/' | relative_url }})

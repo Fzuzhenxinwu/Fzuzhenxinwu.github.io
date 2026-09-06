@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Graduate Study · Visiting Undergraduate · Research Internship
+subtitle: Information Security · Fuzhou University
 profile: false
 selected_papers: false
 social: true
@@ -12,24 +12,27 @@ latest_posts:
   enabled: false
 ---
 
-Welcome to my academic homepage. This site brings together materials for graduate study, visiting undergraduate research, and research internship applications.
+I am **Zhenxin Wu (吴振鑫)**, an undergraduate in **Information Security** at the **College of Computer and Data Science, Fuzhou University**.
 
-## About me
+My research focuses on embodied intelligence and the empirical evaluation of robot learning policies, particularly vision-language-action (VLA) models for real-world manipulation. My first-author paper comparing ACT, π0.5, and SmolVLA on a myCobot robotic platform has been **accepted to PCC 2026**.
 
-Education, research interests, and a personal introduction are **to be added** after verification.
+我就读于福州大学计算机与大数据学院信息安全专业，研究工作围绕具身智能、视觉—语言—动作模型与真实机器人操作评测展开。
 
-个人简介、教育背景与研究兴趣待补充。
+## Academic background
 
-## Explore
+- **Academic rank:** 1 / 58 by GPA; comprehensive assessment rank: 1 / 58.
+- **English:** CET-4: 577; CET-6: 559.
+- **Scholarships:** Fuzhou University Comprehensive Scholarship, awarded in three semesters.
 
-- [Research]({{ '/research/' | relative_url }}) — research interests, experience, and outputs.
-- [Projects]({{ '/projects/' | relative_url }}) — selected projects and supporting materials.
-- [Experience]({{ '/experience/' | relative_url }}) — education and academic or internship experience.
-- [Honors]({{ '/honors/' | relative_url }}) — verified honors and awards.
-- [CV]({{ '/cv/' | relative_url }}) — curriculum vitae and application materials.
+Rankings and test scores are reported in my academic background presentation.
+
+## Research news
+
+**July 2026** — _Multi-Dimensional Empirical Comparison of Three Open-Source Embodied Models_ was accepted to **全国普适计算学术会议 2026 (PCC 2026)**.
+
+[Read about the research]({{ '/research/' | relative_url }}) · [Project details]({{ '/projects/' | relative_url }}) · [Curriculum vitae]({{ '/cv/' | relative_url }})
 
 ## Contact
 
-[GitHub: Fzuzhenxinwu](https://github.com/Fzuzhenxinwu)
-
-Email address: **to be added**.
+Email: [wuzhenxin89@gmail.com](mailto:wuzhenxin89@gmail.com)  
+GitHub: [Fzuzhenxinwu](https://github.com/Fzuzhenxinwu)

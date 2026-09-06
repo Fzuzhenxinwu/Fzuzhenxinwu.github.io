@@ -14,6 +14,7 @@
 - Pages publishing source: successfully changed from legacy to workflow.
 - Initial deployment: successful; GitHub Actions run 34007528260; homepage returned HTTP 200.
 - Personal sections added after the initial site was verified live: Home, Research,
-  Projects, Experience, Honors, and CV. All unverified personal information is explicitly marked as pending.
+  Projects, Experience, Honors, and CV. Verified profile information and the PCC 2026
+  accepted paper were subsequently added from owner-supplied materials; see PROFILE-SOURCES.md.
 
-No research experience, publications, awards, or academic metrics have been claimed.
+Unprovided education dates, code links, and a downloadable CV remain pending.
