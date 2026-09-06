@@ -1,12 +1,16 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: Curriculum vitae and application materials.
 ---
+
+## Curriculum vitae
+
+**To be added.** A downloadable CV will be provided after the personal information and supporting experience have been verified.
+
+简历待补充，当前暂无可下载的 CV 文件。
+
+For available information, see [Research]({{ '/research/' | relative_url }}), [Projects]({{ '/projects/' | relative_url }}), and [Experience]({{ '/experience/' | relative_url }}).

@@ -8,11 +8,12 @@
 - Initial page: neutral placeholder, with template example pages excluded.
 - Deployment: GitHub Actions artifact deployment from main.
 - Upstream workflows are preserved in docs/upstream-workflows and are inactive.
-- Local production build: passed; 2 HTML pages and all their local links/assets verified.
+- Local production build: passed; 7 HTML pages and all their local links/assets verified.
 - Formatting and starter style contract: passed.
 - GitHub authentication: verified as Fzuzhenxinwu; repository administrator access.
 - Pages publishing source: successfully changed from legacy to workflow.
-- Deployment: pending first push and live verification.
-- Personal sections will be added only after the initial site is live.
+- Initial deployment: successful; GitHub Actions run 34007528260; homepage returned HTTP 200.
+- Personal sections added after the initial site was verified live: Home, Research,
+  Projects, Experience, Honors, and CV. All unverified personal information is explicitly marked as pending.
 
 No research experience, publications, awards, or academic metrics have been claimed.
